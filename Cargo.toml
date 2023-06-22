@@ -1,0 +1,10 @@
+[package]
+name = "puresql-rust"
+version = "0.1.0"
+edition = "2021"
+authors = ["Archie Iwakura"]
+description = "Pure (Vec<u8> based) implementation of SQL Query Builder on Rust"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio-postgres = "0.7.8"
