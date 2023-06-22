@@ -2,7 +2,7 @@
 ***Pure (Vec[u&] based) implementation of SQL Query Builder on Rust***
 
 Install:
-```puresql-rust = { git = "https://github.com/hot-moms/"}```
+```puresql-rust = { git = "https://github.com/hot-moms/puresql-rust"}```
 
 
 **puresql-rust** is a lightweight and efficient SQL query builder written in Rust.
