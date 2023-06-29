@@ -1,5 +1,5 @@
 # puresql-rust #
-***Pure (Vec[u&] based) implementation of SQL Query Builder on Rust***
+***Pure (Vec[u&] based) opinionated implementation of SQL Query Builder on Rust***
 
 Install:
 ```puresql-rust = { git = "https://github.com/hot-moms/puresql-rust"}```
@@ -9,6 +9,16 @@ Install:
 
 It offers a pure, lightweight string-based implementation for constructing SQL statements and queries.
 With puresql-rust, users can easily generate complex and robust SQL queries with a very unsafe, but simple and intuitive interface.
+
+### TODO:
+- [X] ADD clauses
+- [X] Equal to X
+- [X] Contained by X
+- [X] Any of X
+- [X] Field is X (type)
+- [X] Compare field with X
+- [X] Between X and Y
+- [ ] OR clauses
 
 
 ### Functions:
